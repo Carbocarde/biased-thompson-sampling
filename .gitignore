@@ -1,0 +1,6 @@
+target/
+cc_shared_libs/
+.vscode/
+ffi/boost_1_82_0/
+tests/temp/
+ffi/.DS_Store
